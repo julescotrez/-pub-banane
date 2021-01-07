@@ -1,0 +1,131 @@
+.bando {
+    background-image: url("media/modèle-de-banane.jpg");
+    background-repeat: repeat;
+    display: flex;
+    flex-direction: row;
+    height: 125px;
+}
+
+#imagelogo {
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 50px;
+    width: 60px;
+    height: 60px;
+}
+
+#textbando {
+    margin-top: 1%;
+    margin-left: 25%;
+    font-size: 400%;
+    font-weight: bold;
+}
+
+body {
+    background: #ffe800
+}
+
+.typedebanane {
+    margin-left: 10%;
+}
+
+.image {
+    margin: 2%;
+    height: 200px;
+    width: 300px;
+}
+
+#image5€ {
+    height: 180px;
+    width: 200px;
+}
+
+.var {
+    width: 75%;
+    display: flex;
+    margin-top: 8%;
+    background: #aaaaaa;
+}
+
+#texttype {
+    color: yellow;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+p {
+    font-weight: bold;
+    background-color: #aaaaaa;
+}
+
+#itemmenu {
+    position: fixed;
+    float: right;
+}
+
+footer {
+    margin-top: 50px;
+    display: flex;
+}
+
+.imagebot {
+    display: flex;
+}
+
+#logobananefoot {
+    margin: 10%;
+    height: 50px;
+    width: 50px;
+}
+
+#logofacfoot {
+    margin: 10%;
+    height: 50px;
+    width: 150px;
+}
+
+#logoinstafoot {
+    margin: 10%;
+    height: 50px;
+    width: 50px;
+}
+
+#logosnapfoot {
+    margin: 10%;
+    height: 50px;
+    width: 50px;
+}
+
+.bottext {
+    margin-left: 50px;
+}
+
+.bottext:hover {
+    color: blue
+}
+
+footer {
+    background: #aaaaaa;
+}
+
+table.barre {
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    width: 170px;
+    text-align: left;
+    padding: 20px;
+}
+
+.barre:hover {
+    background-color: white;
+}
+
+.barre {
+    color: black;
+    background-color: #b3b3b3;
+    font-size: 20px;
+}
